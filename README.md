@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/sh7uybw97413mc50?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-dnd-ujany)
 
-WEB-VERSION: url
+WEB-VERSION: https://garfy2.github.io/ahj-http/
 
 1. **Важно**: в рамках этого ДЗ можно использовать npm (а значит, никакого `yarn.lock` в репозитории быть не должно)
 1. Frontend должен собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor
