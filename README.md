@@ -1,6 +1,7 @@
 Правила сдачи задания:
 
-[![Build status](https://ci.appveyor.com/api/projects/status/sh7uybw97413mc50?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-dnd-ujany)
+[![Build status](https://ci.appveyor.com/api/projects/status/dwo06f6x46c3snls?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-http)
+
 
 WEB-VERSION: https://garfy2.github.io/ahj-http/
 
